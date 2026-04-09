@@ -1,0 +1,21 @@
+Regione;Superficie;Popolazione;Capoluogo;Abitanti 
+Abruzzo;10831;1272000;L'Aquila;69500
+Basilicata;10073;538000;Potenza;64500
+Calabria;15222;1845000;Catanzaro;84900
+Campania;13671;5600000;Napoli;914900
+Emilia-Romagna;22445;4426000;Bologna;387900
+Friuli-Venezia Giulia;7932;1193000;Trieste;198400
+Lazio;17232;5708000;Roma;2745900
+Liguria;5416;1504000;Genova;559200
+Lombardia;23863;9947000;Milano;1352300
+Marche;9401;1483000;Ancona;98300
+Molise;4460;290000;Campobasso;47300
+Piemonte;25387;4244000;Torino;842800
+Puglia;19541;3907000;Bari;315900
+Sardegna;24099;1578000;Cagliari;148300
+Sicilia;25833;4809000;Palermo;630600
+Toscana;22987;3655000;Firenze;361300
+Trentino-Alto Adige;13605;1075000;Trento;117900
+Umbria;8464;855000;Perugia;161800
+Valle d'Aosta;3261;123000;Aosta;33100
+Veneto;18345;4841000;Venezia;250700
