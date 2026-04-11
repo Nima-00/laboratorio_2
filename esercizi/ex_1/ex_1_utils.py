@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 
 
 def fun_1(c: list[float, float], x: float) -> float:
-    """Valuta la retta $y = mx + q$ in un punto $x$."""
+    """Valuta la retta y = mx + q in un punto x."""
     m = c[0]
     q = c[1]
     return m * x + q
 
 
 def fun_2(I: list, k: int) -> list:
-    """Restituisce una lista con i primi $k$ elementi di $I$."""
+    """Restituisce una lista con i primi k elementi di I."""
     punti = []
     passo = (I[1] - I[0]) / k
     for i in range(k + 1):

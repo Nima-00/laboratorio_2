@@ -1,2 +1,2 @@
 def fun_1(a: int):
-    print(a)
+    return 2*a

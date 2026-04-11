@@ -1,4 +1,4 @@
-"""Modulo con funzioni per l'esercizio 1."""
+"""Modulo con funzioni per il Task 1."""
 
 
 def fun_1(a: str):
